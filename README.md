@@ -1,15 +1,9 @@
 <h2 align="center">
 <a href="https://github-explorer-flame.vercel.app/">  
-<img src="https://img.shields.io/badge/GitHub-Explorer-%232-blueviolet?style=for-the-badge" alt="GitHubExplorer" />
+<img src="https://img.shields.io/badge/GitHub-Explorer-blueviolet?style=for-the-badge" alt="GitHubExplorer" />
 </a>
 </h2>
 
-<h1 align="center">
-	<a https://github-explorer-flame.vercel.app/">
-  		<img src="https://github.com/Vinidevsantos/05-github-ui/blob/master/src/assets/GIT.jpg?raw=true" alt="Logo da Github" />
-  		<img src="https://github.com/Vinidevsantos/05-github-ui/blob/master/src/assets/git1.jpg?raw=true" alt="Logo da Github" />
-	</a>
-</h1>
 
 ## ❔ Sobre o projeto
 
@@ -22,6 +16,7 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 <p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
   <img src="https://github.com/Vinidevsantos/05-github-ui/blob/master/src/assets/GIT.jpg?raw=true" alt="Landing Page Proffy in Desktop" />
+  <img src="https://github.com/Vinidevsantos/05-github-ui/blob/master/src/assets/git1.jpg?raw=true" alt="Landing Page Proffy in Desktop" />
 </p>
 
 
